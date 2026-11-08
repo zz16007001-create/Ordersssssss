@@ -1,0 +1,6 @@
+{
+  "name": "العمار ستور",
+  "description": "العمار ستور - نظام مالي متكامل وتجارة الأوردرات وإدارة الخزن والمكاتب والشنطة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
